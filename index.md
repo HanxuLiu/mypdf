@@ -29,6 +29,14 @@
 
 [Vim速查图](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=Vim/Vim_Cheat_Sheet.pdf)
 
+### 架构手册
+
+[LoongArch架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/LoongArch_ISA.pdf)
+
+[RISC-V架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/RISC_V__ISA.pdf)
+
+[PowerPC指令集架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/PowerPC_ISA.pdf)
+
 
 <!-- 使用方法 -->
 <!-- 1. 把 pdf 文件放入 web 文件夹下，修改README.md并导出为index.html。-->
