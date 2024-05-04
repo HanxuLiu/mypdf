@@ -33,6 +33,8 @@
 
 [LoongArch架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/LoongArch_ISA.pdf)
 
+[MIPS64架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/MIPS64_ISA.pdf)
+
 [RISC-V架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/RISC_V__ISA.pdf)
 
 [PowerPC指令集架构手册](https://liuhanxu.gitee.io/mypdf/web/viewer.html?file=ISA_Manual/PowerPC_ISA.pdf)
